@@ -1,0 +1,6 @@
+framework module Pods_TrispectiveTests {
+  umbrella header "Pods-TrispectiveTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>698829504204-a0nbfr94fapoggu96bjee48b7dknor6v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.698829504204-a0nbfr94fapoggu96bjee48b7dknor6v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgLzSVF3CPv0K_Zey8Zz1sN16tVVkK2E8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>698829504204</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>au.edu.rmit.Trispective.Trispective</string>
+	<key>PROJECT_ID</key>
+	<string>spotrmit</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spotrmit.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:698829504204:ios:080480cc904e7794</string>
+	<key>DATABASE_URL</key>
+	<string>https://spotrmit.firebaseio.com</string>
+</dict>
+</plist>
